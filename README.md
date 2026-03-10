@@ -4,9 +4,11 @@ A RESTful API built with **Next.js 14 App Router** for managing student assignme
 
 ---
 
+## 🚀 Getting Started
+
 ### Prerequisites
 - Node.js 18+
-- npm or yarn
+- npm, pnpm or yarn
 
 ## 📐 API Design Table
 
